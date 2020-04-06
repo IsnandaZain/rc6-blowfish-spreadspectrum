@@ -1,4 +1,4 @@
-# Implementation RC6 hybrid Blowfish
+# Implementation Hybrid RC6 and Blowfish
 Penerapan Enkripsi, Dekripsi Algoritma RC6 digabung dengan Blowfish serta menyisipkan hasil enkripsinya kedalam file audio (wav)
 
 
